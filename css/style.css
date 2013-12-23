@@ -1,0 +1,37 @@
+body {
+    background: #A9D0F5;
+    font-family: 'Coming Soon', sans-serif;
+    font-weight: 300;
+    color: #222;
+}
+
+h1 {
+    font-weight: 300;
+    color: white;
+    font-style: bold;
+    font-size: 2em;
+    padding-bottom: 0;
+    margin-bottom: 6px;
+    margin-top: 36px;
+}
+
+section {
+    padding: 12px;
+    border-radius: 12px;
+    text-align: center;
+}
+
+#nota {
+	font-family: 'Simonetta';
+	font-size: 24px;
+	background: 300px 300px;
+	background-color: white;
+}
+<<<<<<< HEAD
+
+.reloj{
+	margin-top: 50px;
+	background-color: #CEE3F6;
+}
+=======
+>>>>>>> 3f8ea3bf357867dcf371ffbdb92e34419367dd63
